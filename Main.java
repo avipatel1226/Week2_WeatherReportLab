@@ -40,9 +40,6 @@ public static void main(String[] args) {
     double lowTemp;
     int uvIndex;
 
-    ...
-
-
 
         // TODO: Declare your variables here
         String conditions;
@@ -52,6 +49,7 @@ public static void main(String[] args) {
         double lowTemp;
         int uvIndex;
 
+        // Midway commit 2 - input validation loops and conditionals added
 
         /*
         STEP 2: Get input from the user using Scanner

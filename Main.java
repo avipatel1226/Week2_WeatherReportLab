@@ -13,6 +13,7 @@ import java.util.Scanner;
 
 
 public class Main {
+    // Midway commit - variables and input added
     public static void main(String[] args) {
 
 
@@ -28,6 +29,19 @@ public class Main {
         e) Daily low temperature (int or double)
         f) UV index (int)
         */
+public static void main(String[] args) {
+
+
+    // STEP 1: Declare variables
+    String todayWeather;
+    String precipitation;
+    String windSpeed;
+    double highTemp;
+    double lowTemp;
+    int uvIndex;
+
+    ...
+
 
 
         // TODO: Declare your variables here
